@@ -1,0 +1,28 @@
+{
+  "name": "talos-welcome",
+  "version": "0.1.1",
+  "description": "Welcome plugin for Talos",
+  "main": "./dist/Welcome.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspartame21/talos-welcome.git"
+  },
+  "keywords": [
+    "plugin",
+    "welcome",
+    "talos"
+  ],
+  "author": "Nijat Mahmudov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aspartame21/talos-welcome/issues"
+  },
+  "homepage": "https://github.com/aspartame21/talos-welcome#readme",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "tsc": "^1.20150623.0"
+  }
+}
