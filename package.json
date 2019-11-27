@@ -1,6 +1,6 @@
 {
   "name": "talos-welcome",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Welcome plugin for Talos",
   "main": "./dist/Welcome.js",
   "scripts": {
